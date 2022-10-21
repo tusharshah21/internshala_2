@@ -1,0 +1,12 @@
+
+
+.reviews_col{
+    margin: 20px 60px!important;
+}
+
+.avatar_rev {
+    /* vertical-align: middle; */
+    width: 10%!important;
+    height: 10%;
+    /* border-radius: 50%; */
+  }

@@ -1,0 +1,41 @@
+h1{
+    font-weight:bold;
+    font-family: Sans-serif;
+    color:#564A4A;
+    /* background-color: #4AA96C; */
+}
+
+
+.c_container{
+    width:50%;
+
+}
+
+/* .stats_left{
+    margin: 20px;
+} */
+.stats_all{
+    margin: 50px 0;
+    /* margin-top:80px; */
+}
+
+
+
+.stats_right{
+    margin: 30px 120px;
+    text-align: center;
+}
+
+.stats_right_img{
+    margin: 40px 0;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 150px!important;
+  height: 150px;
+  border-radius: 50%;
+}
+.info{
+    display:flex;
+}
